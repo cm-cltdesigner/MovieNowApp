@@ -13,7 +13,7 @@ mysql -u root -p > source models/schema.sql
 npm start
 
 ## Live Demo
-<img src="http://www.giphy.com/gifs/ZbOaT2rrUly5dT3C4l"><br>
+<img src="https://media.giphy.com/media/ZbOaT2rrUly5dT3C4l/giphy.gif"><br>
 Feel free to visit the actual site by powered by heroku ("https://git.heroku.com/movie-now-app.git")
 
 ## Collaboration
