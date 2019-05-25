@@ -16,7 +16,7 @@ Replace the variables in example.env with your local mysql settings and rename t
 npm start
 
 ## Live Demo
-<img src="http://www.giphy.com/gifs/ZbOaT2rrUly5dT3C4l")><br>
+<img src="http://www.giphy.com/gifs/ZbOaT2rrUly5dT3C4l"><br>
 Feel free to visit the actual site by powered by heroku ("https://git.heroku.com/movie-now-app.git")
 
 ## Collaboration
