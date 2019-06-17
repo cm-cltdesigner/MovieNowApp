@@ -14,7 +14,7 @@ npm start
 
 ## Live Demo
 <img src="https://media.giphy.com/media/ZbOaT2rrUly5dT3C4l/giphy.gif"><br>
-Feel free to visit the actual site by powered by heroku ("https://git.heroku.com/movie-now-app.git")
+Feel free to visit the actual site by powered by heroku ("https://movie-now-app.herokuapp.com")
 
 ## Collaboration
 Front End: Cody + Courtney <br>
